@@ -15,8 +15,11 @@ It has 3 roles i.e Supa Admin, Students, and A teacher.
 - Implemented Jobs and queues
 - Book and cancel appointments etc.
 
-### Find Some screenshots below
+## Find Some screenshots below
 
+### Landing Page
+
+ ![](landing_page.JPG)
 
 
 
