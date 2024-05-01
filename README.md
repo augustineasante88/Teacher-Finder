@@ -19,7 +19,7 @@ It has 3 roles i.e Supa Admin, Students, and A teacher.
 
 ### Landing Page
 
-![](landing page.JPG)
+ ![](landing_page.JPG)
 
 
 
