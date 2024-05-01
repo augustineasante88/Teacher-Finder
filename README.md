@@ -19,7 +19,26 @@ It has 3 roles i.e Supa Admin, Students, and A teacher.
 
 ### Landing Page
 
- ![](landing_page.JPG)
+ ![image](screenshots/landing_page.JPG)
+
+ 
+
+### Dashboard Page
+
+ ![dashboard](screenshots/main_dashboard.JPG)
 
 
+### Appointsments Page
+
+ ![appointments](screenshots/appointments_page.JPG)
+
+
+### Book Appointment Page
+
+ ![book appointments](screenshots/book_appointment.JPG)
+
+
+### Teacher Details Page
+
+ ![details](screenshots/teacher_details.JPG)
 
